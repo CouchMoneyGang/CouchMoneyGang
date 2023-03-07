@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @CouchMoneyGang
-- 👀 I’m interested in anything about finance, technology, space, and psychology.
-- 🌱 I’m currently learning python / machine learning
-- 💞️ I’m looking to collaborate on ... hmmm, just testing the waters.
-- 📫 How to reach me CouchMoneyGang@gmail.com
+- 👋 Hi, My name is Shay!
+- 👀 I’m interested in anything finance, technology, space, and psychology.
+- 🌱 I’m currently growing as a full-stack developer.
 
 <!---
 CouchMoneyGang/CouchMoneyGang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
